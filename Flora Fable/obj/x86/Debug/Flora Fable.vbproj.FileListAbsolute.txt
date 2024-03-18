@@ -1,0 +1,12 @@
+C:\Users\net.LABXX-XX.000\Desktop\Flora Fable\Flora Fable\Flora Fable\bin\Debug\Flora Fable.exe
+C:\Users\net.LABXX-XX.000\Desktop\Flora Fable\Flora Fable\Flora Fable\bin\Debug\Flora Fable.pdb
+C:\Users\net.LABXX-XX.000\Desktop\Flora Fable\Flora Fable\Flora Fable\bin\Debug\Flora Fable.xml
+C:\Users\net.LABXX-XX.000\Desktop\Flora Fable\Flora Fable\Flora Fable\obj\x86\Debug\Flora_Fable.Form1.resources
+C:\Users\net.LABXX-XX.000\Desktop\Flora Fable\Flora Fable\Flora Fable\obj\x86\Debug\Flora_Fable.Resources.resources
+C:\Users\net.LABXX-XX.000\Desktop\Flora Fable\Flora Fable\Flora Fable\obj\x86\Debug\Flora Fable.vbproj.GenerateResource.Cache
+C:\Users\net.LABXX-XX.000\Desktop\Flora Fable\Flora Fable\Flora Fable\obj\x86\Debug\Flora Fable.exe
+C:\Users\net.LABXX-XX.000\Desktop\Flora Fable\Flora Fable\Flora Fable\obj\x86\Debug\Flora Fable.xml
+C:\Users\net.LABXX-XX.000\Desktop\Flora Fable\Flora Fable\Flora Fable\obj\x86\Debug\Flora Fable.pdb
+C:\Users\mirco\Downloads\03 Lorizzo-20240318T203829Z-001\Flora Fable 18-03 Lorizzo\Flora Fable\Flora Fable\obj\x86\Debug\Flora Fable.exe
+C:\Users\mirco\Downloads\03 Lorizzo-20240318T203829Z-001\Flora Fable 18-03 Lorizzo\Flora Fable\Flora Fable\obj\x86\Debug\Flora Fable.xml
+C:\Users\mirco\Downloads\03 Lorizzo-20240318T203829Z-001\Flora Fable 18-03 Lorizzo\Flora Fable\Flora Fable\obj\x86\Debug\Flora Fable.pdb
