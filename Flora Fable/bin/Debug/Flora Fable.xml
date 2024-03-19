@@ -2,22 +2,24 @@
 <doc>
 <assembly>
 <name>
-FloraFable
+Flora Fable
 </name>
 </assembly>
 <members>
+<member name="T:Flora_Fable.My.Resources.Resources">
+<summary>
+  Classe di risorse fortemente tipizzata per la ricerca di stringhe localizzate e così via.
+</summary>
+</member>
 <member name="P:Flora_Fable.My.Resources.Resources.ResourceManager">
-	<summary>
-  Returns the cached ResourceManager instance used by this class.
+<summary>
+  Restituisce l'istanza di ResourceManager nella cache utilizzata da questa classe.
 </summary>
-</member><member name="P:Flora_Fable.My.Resources.Resources.Culture">
-	<summary>
-  Overrides the current thread's CurrentUICulture property for all
-  resource lookups using this strongly typed resource class.
-</summary>
-</member><member name="T:Flora_Fable.My.Resources.Resources">
-	<summary>
-  A strongly-typed resource class, for looking up localized strings, etc.
+</member>
+<member name="P:Flora_Fable.My.Resources.Resources.Culture">
+<summary>
+  Esegue l'override della proprietà CurrentUICulture del thread corrente per tutte le
+  ricerche di risorse eseguite utilizzando questa classe di risorse fortemente tipizzata.
 </summary>
 </member>
 </members>

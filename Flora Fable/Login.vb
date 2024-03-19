@@ -1,7 +1,27 @@
 ﻿Public Class Login
     Dim Registrazione As Boolean = False
     Private Sub BtnRegistrati_Click(sender As System.Object, e As System.EventArgs) Handles BtnRegistrati.Click
-        TimerAnimazioni.Start()
+        If Registrazione = False Then
+            LblEmail.Visible = True
+            TxtBoxEmail.Visible = True
+            LblUser.Top = 250
+            TxtBoxUser.Top = 300
+            LblPsw.Top = 370
+            TxtBoxPsw.Top = 420
+            BtnSalva.Top = 480
+            Registrazione = True
+            BtnSalva.Text = "REGISTRATI"
+        Else
+            LblEmail.Visible = False
+            TxtBoxEmail.Visible = False
+            LblUser.Top = 150
+            TxtBoxUser.Top = 200
+            LblPsw.Top = 280
+            TxtBoxPsw.Top = 330
+            BtnSalva.Top = 430
+            Registrazione = False
+            BtnSalva.Text = "ACCEDI"
+        End If
     End Sub
 
     Private Sub BtnEsci_Click(sender As System.Object, e As System.EventArgs) Handles BtnEsci.Click
@@ -23,14 +43,5 @@
     End Sub
 
     Private Sub TimerAnimazioni_Tick(sender As System.Object, e As System.EventArgs) Handles TimerAnimazioni.Tick
-        If BtnSalva.Top = 480 Then
-            TimerAnimazioni.Stop()
-        Else
-            LblUser.Top = LblUser.Top + 1
-            TxtBoxUser.Top = TxtBoxUser.Top + 1
-            LblPsw.Top = LblPsw.Top + 1
-            TxtBoxPsw.Top = TxtBoxPsw.Top + 1
-            BtnSalva.Top = BtnSalva.Top + 1
-        End If
     End Sub
 End Class

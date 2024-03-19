@@ -20,3 +20,17 @@ C:\Users\diall\Source\Repos\supermirco\FloraFable\Flora Fable\obj\x86\Debug\Flor
 C:\Users\diall\Source\Repos\supermirco\FloraFable\Flora Fable\obj\x86\Debug\Flora Fable.exe
 C:\Users\diall\Source\Repos\supermirco\FloraFable\Flora Fable\obj\x86\Debug\Flora Fable.xml
 C:\Users\diall\Source\Repos\supermirco\FloraFable\Flora Fable\obj\x86\Debug\Flora Fable.pdb
+C:\Users\mirco\Downloads\03 Lorizzo-20240318T203829Z-001\Flora Fable 18-03 Lorizzo\Flora Fable\Flora Fable\bin\Debug\Flora Fable.exe.config
+C:\Users\mirco\Downloads\03 Lorizzo-20240318T203829Z-001\Flora Fable 18-03 Lorizzo\Flora Fable\Flora Fable\bin\Debug\Flora Fable.exe
+C:\Users\mirco\Downloads\03 Lorizzo-20240318T203829Z-001\Flora Fable 18-03 Lorizzo\Flora Fable\Flora Fable\bin\Debug\Flora Fable.pdb
+C:\Users\mirco\Downloads\03 Lorizzo-20240318T203829Z-001\Flora Fable 18-03 Lorizzo\Flora Fable\Flora Fable\bin\Debug\Flora Fable.xml
+C:\Users\mirco\Downloads\03 Lorizzo-20240318T203829Z-001\Flora Fable 18-03 Lorizzo\Flora Fable\Flora Fable\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\mirco\Downloads\03 Lorizzo-20240318T203829Z-001\Flora Fable 18-03 Lorizzo\Flora Fable\Flora Fable\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\mirco\Downloads\03 Lorizzo-20240318T203829Z-001\Flora Fable 18-03 Lorizzo\Flora Fable\Flora Fable\obj\x86\Debug\Flora Fable.vbproj.AssemblyReference.cache
+C:\Users\mirco\Downloads\03 Lorizzo-20240318T203829Z-001\Flora Fable 18-03 Lorizzo\Flora Fable\Flora Fable\obj\x86\Debug\Flora_Fable.HomePage.resources
+C:\Users\mirco\Downloads\03 Lorizzo-20240318T203829Z-001\Flora Fable 18-03 Lorizzo\Flora Fable\Flora Fable\obj\x86\Debug\Flora_Fable.Login.resources
+C:\Users\mirco\Downloads\03 Lorizzo-20240318T203829Z-001\Flora Fable 18-03 Lorizzo\Flora Fable\Flora Fable\obj\x86\Debug\Flora_Fable.Resources.resources
+C:\Users\mirco\Downloads\03 Lorizzo-20240318T203829Z-001\Flora Fable 18-03 Lorizzo\Flora Fable\Flora Fable\obj\x86\Debug\Flora_Fable.Pacchetti.resources
+C:\Users\mirco\Downloads\03 Lorizzo-20240318T203829Z-001\Flora Fable 18-03 Lorizzo\Flora Fable\Flora Fable\obj\x86\Debug\Flora Fable.vbproj.GenerateResource.cache
+C:\Users\mirco\Downloads\03 Lorizzo-20240318T203829Z-001\Flora Fable 18-03 Lorizzo\Flora Fable\Flora Fable\obj\x86\Debug\Flora Fable.vbproj.CoreCompileInputs.cache
+C:\Users\mirco\Downloads\03 Lorizzo-20240318T203829Z-001\Flora Fable 18-03 Lorizzo\Flora Fable\Flora Fable\obj\x86\Debug\Flora Fable.vbproj.CopyComplete
