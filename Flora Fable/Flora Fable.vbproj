@@ -105,10 +105,10 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <Compile Include="Pacchetti.Designer.vb">
-      <DependentUpon>Pacchetti.vb</DependentUpon>
+    <Compile Include="pacchetti.Designer.vb">
+      <DependentUpon>pacchetti.vb</DependentUpon>
     </Compile>
-    <Compile Include="Pacchetti.vb">
+    <Compile Include="pacchetti.vb">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>
@@ -125,8 +125,8 @@
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <SubType>Designer</SubType>
     </EmbeddedResource>
-    <EmbeddedResource Include="Pacchetti.resx">
-      <DependentUpon>Pacchetti.vb</DependentUpon>
+    <EmbeddedResource Include="pacchetti.resx">
+      <DependentUpon>pacchetti.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
